@@ -6,3 +6,7 @@ The goal of the Python Lab is to develop an algorithm that can accurately predic
 An abnormally long LOS or Length of Stay can be defined in numerous ways. However, for prediction purpose, a long LOS can be defined as greater than 5 days post-surgery.
 Hence, turning our predictive analysis into a binary classification problem, which defines long LOS as 1 or otherwise 0.
 
+## Tech Stack
+Python
+ML Algorithms used: XGBoost, LightGBM, CatBoost
+
